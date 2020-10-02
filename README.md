@@ -1,5 +1,7 @@
 # Adding_Google_translator_to_your_website
 
+`Google Translator` also let you add `multilingual` ability to your own websites with the help of API. For this, you need to follow these steps:
+
 Step 1 :	Add `<div id="google_translate_element"></div>` to your `HTML` code where you want to display the translation dropdown.
 
 Step 2 : Add 
